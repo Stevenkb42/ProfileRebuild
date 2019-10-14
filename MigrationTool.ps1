@@ -1,6 +1,6 @@
 # Title: MigrationTool.ps1
 # Authors:
-# Steven Barnes
+# Stevenkb42
 # Purpose: 
 # Remotely Migrate a user's data after a profile rebuild.
 # Version: 1.00
