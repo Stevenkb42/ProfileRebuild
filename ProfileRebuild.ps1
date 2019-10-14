@@ -8,7 +8,7 @@
 
 <#
     .Synopsis
-   This is RAP in powershell. Will rebuild the user's profile
+   This is a profile rebuild tool in powershell. Will rebuild the user's profile
   
 #>
 param(
