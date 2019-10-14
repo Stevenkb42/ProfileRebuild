@@ -1,6 +1,6 @@
 # Title: ProfileRebuild.ps1
 # Authors:
-# Steven Barnes
+# Stevenkb42
 # Purpose: 
 # Remotely Automatically backup and delete the user's registry key and rename their user folder.
 #
